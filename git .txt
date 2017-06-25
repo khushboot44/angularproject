@@ -1,0 +1,95 @@
+Git config --global user.name "name"
+Git config --global user.email "email"
+git config --list (to ckh the configed users)
+
+git init (to create a git repo)
+ls -la (to see hidden files)
+git add .
+git commit -m "any msg"
+git log (to shw the commit)
+git status (it works same as like working copy means In which files changes is happening)
+Working copy  >> staging >> commit (repo)
+git diff ( to see the changes we made inside the file)
+git diff --staged (to compare the changes b/w staged and repo)
+git mv sourcefile name  destination file name ( TO rename the file name)
+git commit -am "msg" (To add the file directly to the repo with out staging) ( Only use when we  make small changes not for the mv or rename)
+git checkout -- file name ( To take checkout from repo)
+git reset HEAD filename
+git checkout versionname -- filename (few digits of version will be used to recognize the version)
+git remote add githubRepo(alias name of url) https://github.com/khushboot44/angularproject.git
+git push -u githubRepo(alias name) master
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
